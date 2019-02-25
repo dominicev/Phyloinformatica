@@ -1,6 +1,6 @@
 #USER Notes
 
-This package was developed by Dominic A. Evangelista (https://scholar.google.com/citations?user=uFymnT8AAAAJ&hl=en; roachbrain.com) under NSF award no. 1608559. Cite Phylosystematica from this paper: >.....>TO ADD
+This package was developed by Dominic A. Evangelista (https://scholar.google.com/citations?user=uFymnT8AAAAJ&hl=en; roachbrain.com) under NSF award no. 1608559. Cite Phyloinformatica from this paper: >.....>TO ADD
 
 The package is containted within the Wolfram Language Package file (file extension "wl"). To use this file you must open with Wolfram Mathematica. As of January 2019 the package has only been tested with Mathematica V.10 and V.9. Be aware that other versions of Mathematica may produce errors in some Phyloinformatica functions.
 
